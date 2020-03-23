@@ -9,7 +9,7 @@
 # while riding the gig economy wave. We hope you enjoy our 
 # service, and user experience.
 # ------------------------------------------------------
-# Author       - Alon Regensteiner, Maxim pomerantz
+# Author       -  Maxim pomerants
 # Last updated - 26.01.2020
 # ------------------------------------------------------
 
